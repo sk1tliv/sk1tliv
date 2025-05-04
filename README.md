@@ -23,7 +23,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img src="https://images.app.goo.gl/Yu5srfwXeZo75gjk7" height="30" alt="react logo"  />
 </div>
 
 ###
