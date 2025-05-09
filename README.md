@@ -14,20 +14,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://images.app.goo.gl/Yu5srfwXeZo75gjk7" height="30" alt="react logo"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://i.pinimg.com/736x/27/82/f9/2782f930fe6f9c911c19f0431da0eab5.jpg"  />
 </div>
